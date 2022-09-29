@@ -1,7 +1,6 @@
 # Get To Know Mustansir
 
 ![This is an image](IMG_0581.jpeg)
-![This is an image](shared1.jpeg)
 
 Hi, my name is Mustansir and I would like to tell you about me. First and foremost, I am a husband to Jamila and a father to Adam, 
 who was born in June of this year. **Both are my pride and joy**.
@@ -45,17 +44,3 @@ If you have never been to Turkey, here is a short [YouTube video](https://www.yo
 - [x] Complete Lab 0 & 1 for CSE 110
 - [ ] Complete readings for CSE 132A
 - [ ] Catch up with Lord of the Rings: The Rings of Power
-
-
-
-
-
-
-
-
-
-
-
-
-
-This page was built using [GitHub Pages](https://pages.github.com/).
